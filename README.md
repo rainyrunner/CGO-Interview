@@ -38,6 +38,6 @@ import org.springframework.web.bind.annotation.*;
 }
 class Result {
         public int result = -1;
-}```
+}
 
 Nirumon Warahajeerakun
